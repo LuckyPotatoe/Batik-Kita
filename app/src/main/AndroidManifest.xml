@@ -10,8 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BatikKita">
         <activity
-            android:name=".MainActivity"/>
-        <activity android:name=".HomeActivity">
+            android:name=".HomeActivity"/>
+
+        <activity android:name=".MainActivity"
+            android:theme="@style/Theme.Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
