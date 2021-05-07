@@ -10,4 +10,7 @@
     <string name="title_gift">Gift</string>
     <string name="title_Map">Map</string>
     <string name="title_e_commerce">E-Commerce</string>
+    <string name="title_fragment_home">WELCOME TO BATIK KITA!</string>
+    <string name="example_batik">BATIK 1</string>
+    <string name="example_location">JOGJAKARTA</string>
 </resources>
