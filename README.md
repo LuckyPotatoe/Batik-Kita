@@ -37,10 +37,11 @@ BATCH_SIZE = 256
 | MobineNetV3 - No weight | 0.0665 | 4.2 M | ![MobineNetV3 - No weight](https://i.imgur.com/Mf4TcId.png "MobineNetV3 - No weight") |
 | NASNetMobile | 0.0912 | 4.2 M | ![NASNetMobile](https://i.imgur.com/1ahcaaI.png "NASNetMobile") |
 
-## Data Informatin
+## Data Informati0n
 20 Class Dataset
 - 1000 Images From Indonesian Batik Motifs by Dionisius Darryl Hermansyah @Kaggle
-- ~10k Images scrapped from Bing
+- ~16k Images scrapped from Bing, cleaned to 10K
+Total ~11K images
 
 ##### Based on [Indonesian Batik Motifs by Dionisius Darryl Hermansyah @Kaggle](https://www.kaggle.com/dionisiusdh/indonesian-batik-motifs)
 
