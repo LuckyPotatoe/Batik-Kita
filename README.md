@@ -31,11 +31,11 @@ BATCH_SIZE = 256
 
 | Model | Results | Param | Graph |
 | ----- | ------- | ----- | ---- |
-| Vanilla | 0.1695 | 21 M | ![Vanilla](https://imgur.com/wU68sUo "Vanilla") |
-| EfficientNetB0 | 0.0616 | 5.3 M | ![EfficientNetB0](https://imgur.com/a/kyNyPcM "Vanilla") |
-| MobineNetV3 | 0.0833 | 4.2 M | ![MobineNetV3](https://imgur.com/a/spfVSWV "MobineNetV3") |
-| MobineNetV3 - No weight | 0.0665 | 4.2 M | ![MobineNetV3 - No weight](https://imgur.com/a/RuUVrIl "MobineNetV3 - No weight") |
-| NASNetMobile | 0.0912 | 4.2 M | ![NASNetMobile](https://imgur.com/a/Z5jagLA "NASNetMobile") |
+| Vanilla | 0.1695 | 21 M | ![Vanilla](https://i.imgur.com/wU68sUo.png "Vanilla") |
+| EfficientNetB0 | 0.0616 | 5.3 M | ![EfficientNetB0](https://i.imgur.com/SufIBPg.png "Vanilla") |
+| MobineNetV3 | 0.0833 | 4.2 M | ![MobineNetV3](https://i.imgur.com/Ey1R0Sm.png "MobineNetV3") |
+| MobineNetV3 - No weight | 0.0665 | 4.2 M | ![MobineNetV3 - No weight](https://i.imgur.com/Mf4TcId.png "MobineNetV3 - No weight") |
+| NASNetMobile | 0.0912 | 4.2 M | ![NASNetMobile](https://i.imgur.com/1ahcaaI.png "NASNetMobile") |
 
 ## Data Informatin
 20 Class Dataset
