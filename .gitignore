@@ -1,9 +1,9 @@
 .ipynb_checkpoints
 .virtual_documents
-/Data/Training/
-/Data/Testing/
-/Data/Dev/
-/Data/Dirty/
-/Data/Clean/
-/Data/Dirty/scraped.zip
+Data/Training/
+Data/Testing/
+Data/Dev/
+Data/Dirty/
+Data/Clean/
+Data/Dirty/scraped.zip
 results
